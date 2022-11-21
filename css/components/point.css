@@ -1,0 +1,19 @@
+.nav__dot {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  display: flex;
+  position: absolute;
+  left: 35px;
+  bottom: 30px;
+}
+.point {
+  position: absolute;
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  right: -6px;
+  top: -6px;
+}

@@ -1,0 +1,21 @@
+.main-screen2 {
+  padding: 15px 25px;
+}
+.find_icons {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+.find_icons__icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.find_icons__icon i {
+  font-size: 35px;
+}
+
+.find_icons__icon span {
+  margin-top: 18px;
+}
