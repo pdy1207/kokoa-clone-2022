@@ -41,7 +41,7 @@
 허나 웹 사이트를 좀 더 **똑똑하게** 만들어야 할 타이밍이 왔지만, <br>
 HTML CSS 기본이니 기본에 충실하고 CSS와 Sass를 공부하고 JS가 이제 내 대표언어라고 말 할 수있는 그날까지! <br>
 
->Thanks nico see you in JS and Sass🖤
+>Thanks nico see you in JS and Sass
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110442250/203586065-09b9b3b8-d7c2-4aa0-9b3a-b4fdd4a273a9.png" height="400" width="550" margin="30">
